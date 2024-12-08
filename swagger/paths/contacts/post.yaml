@@ -24,10 +24,6 @@ requestBody:
             description: "Contact's number"
             type: string
             example: '+380698564454'
-          isFavourite:
-            description: "Contact's is favourite?"
-            type: boolean
-            example: false
           email:
             description: "Contact's email"
             type: string
